@@ -1,0 +1,40 @@
+body{
+	margin-left: 10%;
+	font-family: 'Lato', sans-serif;
+	background-color: #ECFAFC   ;
+
+
+}
+#input {
+    font-size: 2em;
+    width: 60%;
+    height: 2.5em;
+    opacity: 0.8;
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+    outline: none;
+    border:0;
+    background-color: #ECFAFC;
+}
+button {
+	opacity:0.7;
+}
+#fontSize{
+	font-size: 1.5em;
+}
+#myId{
+	padding-bottom: 3%;
+}
+#feedArea{
+	margin-top: 4%;
+}
+li{
+	background-color: white;
+	padding: 1%;
+	margin-top: 2%;
+	margin-bottom: 2%;
+	width: 70%;
+}
+#feedSize{
+	font-size: 0.8em;
+}
