@@ -28,7 +28,7 @@ button {
 .myDetails{
     cursor: not-allowed;
     pointer-events: none;
-}
+} /* To hide buttons once data comes successfuly */
 #fontSize{
 	font-size: 1.5em;
 }
